@@ -1,0 +1,16 @@
+{
+    "meals": [
+        {
+
+            "idMeal": "52768",
+            "strMeal": "strMeal",
+            "strCategory": "strCategory",
+            "strArea": "strArea",
+            "strInstructions": "strInstructions",
+            "strMealThumb": "strMealThumb",
+            "strTags": "strTags",
+            "strYoutube": "strYoutube"
+        }
+
+    ]
+}
